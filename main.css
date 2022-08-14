@@ -9,6 +9,12 @@
   --darkplus-sec: #ff93ac;
   --darkplus-links: #ff93ac;
 }
+.iconBadge-3Mmg92 {
+  background-color: var(--darkplus-sec);
+}
+.iconWrapper-2awDjA path {
+  color: var(--darkplus-sec);
+}
 .avatar-2e8lTP.clickable-31pE3P {
   filter: drop-shadow(0 0 5px);
   color: var(--darkplus-sec);
