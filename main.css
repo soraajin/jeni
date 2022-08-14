@@ -9,13 +9,13 @@
   --darkplus-sec: #ff93ac;
   --darkplus-links: #ff93ac;
 }
-
-.avatar-3QF_VA {
-  margin-left: 200px;
-}
-.avatar-6qzftW {
+.iconWrapper-2awDjA path {
   color: var(--darkplus-sec);
 }
+.iconBadge-3Mmg92 {
+  background-color: var(--darkplus-sec);
+}
+
 :root .threadSidebar-1o3BTy {
   position: fixed;
   top: 220px;
