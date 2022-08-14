@@ -3,13 +3,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+
+
 :root {
   --darkplus-bg: #ff93ac;
   --darkplus-bg2: #ff93ac;
   --darkplus-sec: #ff93ac;
   --darkplus-links: #ff93ac;
 }
-
+.iconWrapper-2awDjA path {
+  color: var(--darkplus-sec);
+}
+.iconBadge-3Mmg92 {
+  background-color: var(--darkplus-sec);
+}
 .avatar-2e8lTP.clickable-31pE3P {
   filter: drop-shadow(0 0 5px);
   color: var(--darkplus-sec);
@@ -24,6 +31,8 @@
 .avatar-6qzftW {
   color: var(--darkplus-sec);
 }
+
+
 :root .threadSidebar-1o3BTy {
   position: fixed;
   top: 220px;
