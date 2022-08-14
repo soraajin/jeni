@@ -6,10 +6,10 @@
 
 
 :root {
-  --darkplus-bg: #ff93ac;
-  --darkplus-bg2: #ff93ac;
-  --darkplus-sec: #ff93ac;
-  --darkplus-links: #ff93ac;
+  --darkplus-bg: #ffc2cd;
+  --darkplus-bg2: #ffc2cd;
+  --darkplus-sec: #ffc2cd;
+  --darkplus-links: #ffc2cd;
 }
 .iconWrapper-2awDjA path {
   color: var(--darkplus-sec);
